@@ -1,7 +1,9 @@
 # Toplantı Takip Programı
 
 
-C# ile geliştirdiğim basit bir kayıt takip uygulamasıdır. 
-Visual Studio 2019 ile geliştirildi diğer Visual Studio sürümlerinde hata verebilir
+C# ile geliştirdiğim basit bir kayıt takip uygulamasıdır. <br>
+Visual Studio 2019 ile geliştirildi diğer Visual Studio sürümlerinde hata verebilir.
 
-[![image](https://i.hizliresim.com/lQjW7k.png)](https://hizliresim.com/lQjW7k)
+
+![Screenshot_4](https://user-images.githubusercontent.com/32311900/61113260-7cf52100-a496-11e9-9e47-91c08fa9dbb3.png)
+
